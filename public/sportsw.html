@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Men's wear</title>
+    <link rel="stylesheet" href="bootstrap.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="b">
+        <div class="row">
+          <div class="col">
+            <a href="index.html"><img src="images/bs1.jpg" alt="" width="70px"></a>
+          </div>
+          <div class="col">
+            <a href="index.html">Home</a>
+          </div>
+          <div class="col">
+            <button onclick="showHideProducts()">Products</button>
+          </div>
+          <div class="dropdown show col">
+            <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              address
+            </a>
+          
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+              <a class="dropdown-item" href="#">Add address </a>
+            </div>
+          </div>
+          <div class="col-3">
+            <form>
+              <input type="search" placeholder="Search" aria-label="Search">
+            </form>
+          </div>
+          <div class="col">
+            <a href="login.html">login/register</a>
+          </div>
+          <div class="col">
+            <a href="cart.html">cart</a>
+          </div>
+
+        </div>
+    </header>
+    <div class="row">
+        <h1>Men's wear</h1>
+        <div class="col bs">
+          <span class="shop-item-title">Cricket bat</span>
+            <img class="shop-item-image" src="images/crikcet.jpg" alt="" width="300px">
+            <span class="shop-item-price">$12.99</span>
+            <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+        </div>
+        <div class="col bs">
+          <span class="shop-item-title">Hockey stick</span>
+            <img class="shop-item-image" src="images/hockey.jpg" alt="" width="300px">
+            <span class="shop-item-price">$12.99</span>
+            <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+        </div>
+
+    </div>
+    <footer>
+
+      <div style="background: #004872;">
+        <h4>contact us at</h4>
+        <nav>
+          <ul>
+            <li>facebook</li>
+            <li>linkedin</li>
+            <li>github</li>
+          </ul>
+        </nav>
+          <p style="color: #91BEC2; padding: 15px 0;" align="center">
+              &copy; 2019 Copyright: <a href="bhargavsaich7337@gmail.com">Created By: Bhargav sai Challagulla</a>
+          </p>
+      </div>
+    </footer>
+      <script src="scripts/ecom.js"></script>
+      <script src="scripts/cart.js" async></script>
+</body>
+</html>
