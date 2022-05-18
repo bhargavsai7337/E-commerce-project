@@ -32,3 +32,25 @@
 - Payment entity
 - Order entity![erd](https://user-images.githubusercontent.com/69292786/168952440-6d0ef788-0220-4518-8541-59b66672f306.png)
 
+***
+### Quick guide to insall software
+***
+-Install NodeJS  from https://nodejs.org/en/download/
+- Use npm init commands to create a Json file
+- Use commands npm install nodemon/
+- Create a .gitignore 
+- Install mysql command line client and link using env file
+***
+### Index page
+-![index](https://user-images.githubusercontent.com/69292786/168953028-eea9cc8a-72a2-46cb-8471-a7afca3f6597.png)
+***
+### login page
+-![login](https://user-images.githubusercontent.com/69292786/168953092-16a35052-77f9-4081-9379-5e9e1d92e57e.png)
+***
+### Register page
+-
+
+![register](https://user-images.githubusercontent.com/69292786/168953157-32f98924-4bcb-4152-9250-1bd44b8a7787.png)
+
+***
+### forgotpassword page
