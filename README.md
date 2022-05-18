@@ -54,3 +54,9 @@
 
 ***
 ### forgotpassword page
+-![forgotpassword](https://user-images.githubusercontent.com/69292786/168953334-1fad96ad-92c3-45db-a136-0e5f94fd28de.png)
+***
+### cart page
+-![cart](https://user-images.githubusercontent.com/69292786/168953393-81f8464f-e79a-4458-91f7-3483cc06742a.png)
+***
+
